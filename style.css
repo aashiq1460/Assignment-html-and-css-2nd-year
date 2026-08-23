@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+a {
+  color: #ff5722;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #d84315;
+}
+
+img {
+  border: 3px solid #333333;
+  border-radius: 12px;
+}
+
+tr:nth-child(even) {
+  background-color: #e0e0e0;
+}
+
+ul {
+  list-style-type: none;
+}
